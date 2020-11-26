@@ -1,41 +1,7 @@
-
-<html>
-<header>
-  <title>
-    Title
-  </title>
-</header>
-<body>
-<h1> Hello World! </h1>
-<div>
-  <p>First paragraph</p>
-  <p>Second paragraph</p>
-</div>
-</body>
-
-
-<div>
-<h3>Table</h3>
-<table style="border: 1px solid black">
-      <tr>
-           <th>Imię</th>
-           <th>Nazwisko</th>
-           <th>Wiek</th>
-      </tr>
-      <tr>
-           <td>Tomasz</td>
-           <td>Kowalski</td>
-           <td>15</td>
-      </tr>
-      <tr>
-           <td>Marta</td>
-           <td>Kowalska</td>
-           <td>10</td>
-      </tr>
-</table>
-</div>
-
-
-
-</html>
-
+body {
+    background-color: lightblue;
+}
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
