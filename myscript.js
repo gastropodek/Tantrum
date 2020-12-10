@@ -1,5 +1,5 @@
-function helloFunction()    {
-    document.getElementById("hello").innerHTML = "Hello JavaScript"
+function helloFunction(target) {
+    document.getElementById("hello").innerHTML = getHelloMessage(target);
 }
 
 function getHelloMessage(target) {
